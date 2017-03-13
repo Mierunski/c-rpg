@@ -1,0 +1,108 @@
+Kij
+3
+1
+1
+Lniana Tunika
+1
+3
+1
+Pokrywa od smietnika
+2
+2
+1
+Stary Garnek
+1
+4
+1
+Mala drewniana tarcza
+3
+2
+2
+Sztylet
+4
+1
+2
+Skorzana tunika
+2
+3
+2
+Skorzany helm
+2
+4
+2
+Tepy topor
+6
+1
+3
+Tepy miecz
+5
+1
+3
+Puklerz
+5
+2
+3
+Skorznia
+3
+3
+3
+Szyszak
+3
+4
+3
+Wlocznia
+8
+1
+4
+Duza Debowa Tarcza
+6
+2
+4
+Zbroja Cwiekowa
+4
+3
+4
+Helm z Rogami
+4
+4
+4
+Topor Bojowy
+10
+1
+5
+Dlugi Miecz
+12
+1
+5
+Stalowa Tarcza
+8
+2
+5
+Kolczuga
+6
+3
+5
+Stalowy Helm
+6
+4
+5
+Halabarda
+14
+1
+6
+Morgensztern
+16
+1
+6
+Tarcza Legionisty
+12
+2
+6
+Zbroja Plytowa
+8
+3
+6
+Helm z Przylbica
+8
+3
+6
