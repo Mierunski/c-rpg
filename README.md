@@ -1,6 +1,8 @@
 # Console RPG
 Simple console RPG in Polish, written in C as a final project for procedural programming course.
 
+Date: 2015-01-17
+
 # Description
 Data about player, monsters and items is organized in structures. There are dedicated functions which make interactions between structures.
 
